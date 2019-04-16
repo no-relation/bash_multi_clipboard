@@ -1,0 +1,1 @@
+# bash_multi_clipboard
